@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como parte do desafio do curso de Python da [DIO (
 - Limite de **R$ 500 por saque**.
 - O extrato exibe todas as operações realizadas.
 
-## ⚙️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python
 <img width="48" height="48" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> 
