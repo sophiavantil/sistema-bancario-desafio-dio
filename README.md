@@ -7,6 +7,7 @@
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Regras Implementadas](#regras-implementadas)
+- [Como Executar](#como-executar)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 # Descrição
@@ -25,6 +26,23 @@ Este projeto foi desenvolvido como parte do desafio do curso de Python da [DIO (
 - Limite de **3 saques diários**.
 - Limite de **R$ 500 por saque**.
 - O extrato exibe todas as operações realizadas.
+
+# Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/sophiavantil/sistema_bancario_desafio-dio.git
+   ```
+
+2. Navegue até o diretório:
+   ```bash
+   cd sistema_bancario_desafio-dio
+   ```
+
+3. Execute:
+   ```bash
+   python sistema_bancario.py
+   ```
 
 # Tecnologias Utilizadas
 
