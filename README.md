@@ -41,7 +41,7 @@ Este projeto foi desenvolvido como parte do desafio do curso de Python da [DIO (
 
 3. Execute:
    ```bash
-   python sistema_bancario.py
+   python sistema_bancario_desafio_dio.py
    ```
 
 # Tecnologias Utilizadas
