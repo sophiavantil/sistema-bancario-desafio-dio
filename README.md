@@ -31,12 +31,12 @@ Este projeto foi desenvolvido como parte do desafio do curso de Python da [DIO (
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/sophiavantil/sistema_bancario_desafio-dio.git
+   git clone https://github.com/sophiavantil/sistema-bancario-desafio-dio.git
    ```
 
 2. Navegue até o diretório:
    ```bash
-   cd sistema_bancario_desafio-dio
+   cd sistema-bancario-desafio-dio
    ```
 
 3. Execute:
